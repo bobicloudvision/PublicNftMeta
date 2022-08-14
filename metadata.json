@@ -1,7 +1,21 @@
 {
-   "name":"BMW X3",
-   "description":"Cool BMW x3",
-   "image":"",
-   "external_url":"",
-   "animation_url":""
+   "name":"Wooden Rocking Chair",
+   "description":"Wooden Rocking Chair\nDesigned By: Lady Pixy Inc.\nCollection: Old Western Saloon",
+   "image":"ipfs://bafybeihwr5mcocqf4pwtwtlpokb3kjptbtq4hqogynqenlndtxp5gs4d4i/wooden-rocking-chair.png",
+   "external_url":"https://www.sandbox.game/en/assets/wooden-rocking-chair/e6342d72-6c93-40cb-8968-78745f5362d1/",
+   "animation_url":"ipfs://bafybeihwr5mcocqf4pwtwtlpokb3kjptbtq4hqogynqenlndtxp5gs4d4i/wooden-rocking-chair.gltf",
+   "sandbox":{
+      "version":2,
+      "creator":"0xcecd9ebfe84d35c8e835a39ef61dce7d1bd0f2e8",
+      "classification":{
+         "type":"Entity",
+         "theme":"None",
+         "categories":[
+            "Furniture",
+            "Wood"
+         ]
+      },
+      "voxel_model":"ipfs://bafybeihwr5mcocqf4pwtwtlpokb3kjptbtq4hqogynqenlndtxp5gs4d4i/wooden-rocking-chair.vxc",
+      "creator_profile_url":"https://www.sandbox.game/en/users/ladypixycompany/da6a7c8d-fdbd-436e-8f91-9ba22a7d92c6/"
+   }
 }
